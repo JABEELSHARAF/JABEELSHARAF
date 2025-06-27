@@ -1,23 +1,22 @@
-![Banner]([https://github.com/JABEELSHARAF/JABEELSHARAF/blob/main/Black%20and%20Yellow%20Web%20Developer%20LinkedIn%20Banner.png?raw=true])
+![Banner](https://github.com/JABEELSHARAF/JABEELSHARAF/blob/main/Black%20and%20Yellow%20Web%20Developer%20LinkedIn%20Banner.png?raw=true)
 
 ---
 
 # 👋 About Me
 
-Hi there! I'm Jabeel Sharaf, a passionate programmer who started his coding journey in 2020. I love building meaningful projects, learning new technologies, and solving real-world problems through code.
+Hi there! I'm **Jabeel Sharaf**, a passionate programmer who started his coding journey in **2020**. I love building meaningful projects, learning new technologies, and solving real-world problems through code.
 
 ---
 
 ## 🚀 My Coding Journey
 
-- 🌐 Started with **HTML**, **CSS**, and **Bootstrap** for frontend web development.
-- 🐘 Advanced into **PHP** and **Laravel** to build powerful backend systems.
-- 🐍 Learned **Python** and worked with **Django** for building secure, scalable apps.
-- ⚛️ Explored **React** for creating dynamic and modern UIs.
-- 🛢️ Use **MySQL** as my go-to relational database for most projects.
+- 🌐 Started with **HTML**, **CSS**, and **Bootstrap** for frontend web development.  
+- 🐘 Advanced into **PHP** and **Laravel** to build powerful backend systems.  
+- 🐍 Learned **Python** and worked with **Django** for building secure, scalable apps.  
+- ⚛️ Explored **React** for creating dynamic and modern UIs.  
+- 🛢️ Use **MySQL** as my go-to relational database for most projects.  
+
 ---
-
-
 
 ## 📫 Get in Touch
 
