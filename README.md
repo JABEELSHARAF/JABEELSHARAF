@@ -1,4 +1,4 @@
-![Banner]([https://raw.githubusercontent.com/JABEELSHARAF/JABEELSHARAF/refs/heads/main/Black%20and%20Yellow%20Web%20Developer%20LinkedIn%20Banner.png])
+![Banner]([https://github.com/JABEELSHARAF/JABEELSHARAF/blob/main/Black%20and%20Yellow%20Web%20Developer%20LinkedIn%20Banner.png?raw=true])
 
 ---
 
